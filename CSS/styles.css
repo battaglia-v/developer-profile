@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  ;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  padding-top: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 2;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+.bio {
+  font-size: 14px;
+}
+
+
+.profile {
+  width: 30%;
+  margin: 0 auto;
+  line-height: 2;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+
+.web-development {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.problem-solving {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+
+
+
+}
+
+.programmer-subtitle {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  margin-bottom: 0;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  padding-top: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 200px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: .8rem;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.contact-me {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.experience {
+  position: relative;
+  margin-bottom: 50px;
+}
+
+
+
+.myButton {
+	box-shadow: 0px 0px 0px 0px #276873;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;;
+	font-size:16px;
+	font-weight:bold;
+	padding:4px 11px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#30e3cb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+}
